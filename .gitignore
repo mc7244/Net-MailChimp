@@ -1,0 +1,6 @@
+.vstags
+.vscode
+.DS_Store
+.build
+/Net-PaccoFacile*
+/demo
